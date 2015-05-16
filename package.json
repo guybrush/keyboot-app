@@ -1,0 +1,36 @@
+{
+  "name": "keyboot-app",
+  "version": "1.0.0",
+  "description": "client for keyboot",
+  "main": "index.js",
+  "bin": {
+    "keyboot": "bin/cmd.js"
+  },
+  "dependencies": {
+    "defined": "~0.0.0",
+    "frame-rpc": "^1.2.0",
+    "has": "^1.0.0",
+    "inherits": "~2.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/substack/keyboot.git"
+  },
+  "homepage": "https://github.com/substack/keyboot-app",
+  "keywords": [
+    "browser",
+    "crypto",
+    "auth",
+    "authentication",
+    "offline-first",
+    "offline"
+  ],
+  "author": {
+    "name": "James Halliday",
+    "email": "mail@substack.net",
+    "url": "http://substack.net"
+  },
+  "license": "MIT"
+}

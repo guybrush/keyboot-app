@@ -16,9 +16,9 @@
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git://github.com/substack/keyboot.git"
+    "url": "git://github.com/guybrush/keyboot-app.git"
   },
-  "homepage": "https://github.com/substack/keyboot-app",
+  "homepage": "https://github.com/guybrush/keyboot-app",
   "keywords": [
     "browser",
     "crypto",
@@ -27,10 +27,6 @@
     "offline-first",
     "offline"
   ],
-  "author": {
-    "name": "James Halliday",
-    "email": "mail@substack.net",
-    "url": "http://substack.net"
-  },
+  "author": "Patrick Pfeiffer <patrick@buzzle.at>",
   "license": "MIT"
 }

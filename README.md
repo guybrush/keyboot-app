@@ -1,3 +1,3 @@
 # keyboot-app
 
-[https://npmjs.com/keyboot] witouth level-db, for faster install
+[keyboot](https://npmjs.com/keyboot) without level-db, for faster install

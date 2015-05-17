@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "description": "client for keyboot",
   "main": "index.js",
-  "bin": {
-    "keyboot": "bin/cmd.js"
-  },
   "dependencies": {
     "defined": "~0.0.0",
     "frame-rpc": "^1.2.0",
